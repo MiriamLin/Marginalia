@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Marginalia</string>
+    <string name="no_notes">No notes yet.</string>
+    <string name="no_notes_hint">Select text in another app and choose Marginalia.</string>
+    <string name="save_text">Save text</string>
+    <string name="create_new_note">Create new note</string>
+    <string name="add_to_existing_note">Add to existing note</string>
+    <string name="back">Back</string>
+    <string name="add_symbol">+</string>
+    <string name="add_to_note">Add to note: %1$s</string>
+    <string name="loading_notes">Loading notes...</string>
+    <string name="saving">Saving...</string>
+    <string name="load_notes_error">Could not load notes. Please reopen this screen.</string>
+    <string name="save_note_error">Could not save text. Please try again.</string>
 </resources>
